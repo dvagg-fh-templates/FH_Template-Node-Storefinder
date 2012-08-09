@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.example.fhdemo2.store.finder" version="" width="320" height="480" start="index.html">
+<title>Store Finder</title>
+<description>Store Finder from git</description>
+<author name="" email="fhdemo2@example.com" url=""></author>
+<license></license>
+</widget>

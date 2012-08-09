@@ -1,4 +1,6 @@
-FH_Template-Node-Storefinder
-============================
 
-Storefinder Demo Template App
+[FeedHenry](http://www.feedhenry.com "FeedHenry") Sample Application see:
+
+- [Developer Information](http://developer.feedhenry.com)
+
+- [API Documentation](http://docs.feedhenry.com)

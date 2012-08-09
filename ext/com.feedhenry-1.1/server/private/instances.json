@@ -1,0 +1,56 @@
+[{
+  "fields": {
+    "accessType": "",
+    "collapsed": false,
+    "color": "",
+    "config": {
+      "icon": {
+        "large": "cKB6LUh1W21APgNHheg-4ffR",
+        "small": "cKB6LOyt6rH39MezaVHI2Sc5"
+      },
+      "preview": {"device": "iphone_4"}
+    },
+    "containerCriteria": "",
+    "description": "Store Finder from git",
+    "disabled": false,
+    "discover": false,
+    "dock": "",
+    "email": "fhdemo2@example.com",
+    "fixedPos": false,
+    "height": 480,
+    "iconLarge": "",
+    "iconSmall": "",
+    "mobileFullScreen": false,
+    "origin": "",
+    "overrides": {},
+    "params": {},
+    "prefsEditable": false,
+    "ratingData": {},
+    "screenShot": "",
+    "sharable": false,
+    "sizeEditable": false,
+    "title": "Store Finder",
+    "titleEditable": false,
+    "type": "",
+    "width": 320
+  },
+  "iconSmall": {
+    "fields": {
+      "active": true,
+      "code": "small",
+      "contents": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABLklEQVR42mP4rcOAE2lhEcQQ0mX4o8Hwf+ei/3cv/z+29b+3NAEN/+OM/kPArx9A4h8Q716GU8P/o1v+//37xwjM1Wf4qQcW/PTu/+9fGBq0GP5fPfnv71+Q2Se2w13/30P0z+8//y8e+f/vH7oNf4Gq481AimKNUNypDrINZFCGA0LDL02Q0C9tnCH2/+jm/6unIDT895EFasATxP+rQ/+/forQ8EeH4d8/vBr2rvz/+CaqH4A62lNBcrPrEUo1QQH9yxDsBzdhJA26DNDgf/vi/59vCIOXdIME873+/fmDLR6+fETzyQ89hv+Pb/3/+f2fowC2mAYG34G1/3/+/P/n9/+9q/6/eQ6x9Z8ZnrQEjrL/0fr/t87/X+oP9APQtXgTHwyB0oUuttRKKgAAbi9vZluAswsAAAAASUVORK5CYII=",
+      "fileName": "Screen Shot 2012-08-08 at 15.10.08.png"
+    },
+    "type": "widg_InstanceBinary"
+  },
+  "iconlarge": {
+    "fields": {
+      "active": true,
+      "code": "large",
+      "contents": "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",
+      "fileName": "Screen Shot 2012-08-08 at 15.10.08.png"
+    },
+    "type": "widg_InstanceBinary"
+  },
+  "sharing": []
+}]
